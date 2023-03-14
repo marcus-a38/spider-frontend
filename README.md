@@ -26,11 +26,9 @@
    
 ### Road-Map
 
-|            FEATURE            |           STATUS           |        VERSION        |
+|            FEATURE            |           STATUS           |        PRIORITY       |
 |-------------------------------|----------------------------|-----------------------|
-|     RESPONSIVE REDESIGN       |                  
-|----------------------------------------------------------------------------
-|
-|
-|
-|
+|     RESPONSIVE REDESIGN       |         NOT STARTED        |          HIGH         |
+|         HOME PAGE             |         IN PROGRESS        |        HIGHEST        |
+|     MULTI-BROWSER SUPPORT     |         NOT STARTED        |         MEDIUM        |
+|         LOGO DESIGN           |          DRAFTING          |          LOW          |
