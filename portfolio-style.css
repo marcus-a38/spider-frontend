@@ -1,0 +1,176 @@
+/* MAKE THIS FILE PRETTIER!!! */
+
+
+/*================= SETUP =================*/
+
+.content {
+
+
+    margin-bottom: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/*================= ELEMENTS =================*/
+
+#title {
+    margin-top: 8.419vw;
+    font-size: 5.4vw;
+    font-family: 'Hansief', sans-serif;
+    letter-spacing: 0.7321vw;
+    margin-bottom: 6px;
+    color: white;
+    padding: 0;
+    visibility: hidden;
+    text-align: center;
+}
+
+#subtitle {
+    font-size: 2.05vw;
+    font-family: 'Ageo Personal Use', sans-serif;
+    margin-top: 0.4392vw;
+    color: white;
+    visibility: hidden;
+    text-align: center;
+}
+
+#introduction { /* title & subtitle */
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+#down { /* down button */
+
+    font-weight: bolder;
+    height: 6.8vh;
+    width: 3.6603221083455346vw; /* why the strange values? i used https://vw.joealden.com/ to convert px to vw */
+    border-radius: 50%; 
+    border-style: none;
+    font-size: 75px;
+    animation: buttonBounce 3s infinite;
+    animation-delay: 1s;
+
+}
+
+@keyframes buttonBounce { /* credit to https://www.youtube.com/@CodeInstinct for the anim basics */
+                          /* most likely need to disable for mobile devices */
+    0%, 40%, 100% {
+        transform: translateY(0);
+    }
+    20% {
+        transform: translateY(5vh);
+    }
+
+}
+
+#album-list {
+
+    margin-top: 40vh;
+}
+
+.img-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    
+}
+
+ .left-img, .right-img {
+    margin: 0;
+    padding: 0;
+}
+
+#spider-icon {
+    filter: invert(1);
+    height: 44px;
+    width: 44px;
+}
+
+.img-text {
+    text-decoration: none;
+    font-size: 2.1962vw;
+    font-family: 'Hansief', sans-serif;
+    font-weight: bold;
+    color: white;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.text-wrapper {
+
+    position: absolute;
+    z-index: 99;
+    margin:0;
+    padding:0;
+
+}
+
+.img-text:visited {
+    color: white;
+}
+
+img {
+
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+.album {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 9px;
+    margin-bottom: 0;
+    padding: 0;
+    position: relative;
+}
+
+
+.footer {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+#legal {
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+
+.separator {
+
+
+    height: inherit;
+    width: 70%;
+
+}
+
+#legal a {
+
+    color: whitesmoke;
+    margin-right: 10px;
+
+}
