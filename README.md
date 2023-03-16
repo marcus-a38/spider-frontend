@@ -25,7 +25,7 @@
    - Privacy Policy
    - Cookies
    
-### Section 3: Road-Map
+### Section 2: Road-Map
 
 |            FEATURE            |           STATUS           |        PRIORITY       |
 |-------------------------------|----------------------------|-----------------------|
@@ -35,7 +35,7 @@
 |         LOGO DESIGN           |          DRAFTING          |          LOW          |
 |         CODE REWRITE          |         NOT STARTED        |         MEDIUM        |
 
-### Section 4: Preview
+### Section 3: Preview
 
 Here are some beta previews of the website!
 
