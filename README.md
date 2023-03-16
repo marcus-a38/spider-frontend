@@ -1,6 +1,8 @@
 # Front-End Code for a Producer's Website (prodbySPiDER)
 
+
 ### Section 1: Pages
+
 
 1. Home
    - Contains recent releases, information, and extras!
@@ -24,7 +26,8 @@
    - Terms of Service
    - Privacy Policy
    - Cookies
-   
+  
+  
 ### Section 2: Road-Map
 
 |            FEATURE            |           STATUS           |        PRIORITY       |
@@ -35,9 +38,12 @@
 |         LOGO DESIGN           |          DRAFTING          |          LOW          |
 |         CODE REWRITE          |         NOT STARTED        |         MEDIUM        |
 
+
 ### Section 3: Preview
 
+
 Here are some beta previews of the website!
+
 
 **PORTFOLIO**  
 --
